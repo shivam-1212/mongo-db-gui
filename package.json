@@ -1,0 +1,24 @@
+{
+  "name": "mongo-db-gui",
+  "version": "1.0.0",
+  "description": "A simple MongoDB GUI Package for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-1212/mongo-db-gui.git"
+  },
+  "keywords": [
+    "mongodb",
+    "gui",
+    "interface"
+  ],
+  "author": "shivam jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivam-1212/mongo-db-gui/issues"
+  },
+  "homepage": "https://github.com/shivam-1212/mongo-db-gui#readme"
+}
